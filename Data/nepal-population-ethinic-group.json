@@ -1,0 +1,22 @@
+{
+    "Newar": {
+        "male": 3000,
+        "female": 3200
+    },
+    "Tharu": {
+        "male": 2500,
+        "female": 2700
+    },
+    "Chettri": {
+        "male": 4000,
+        "female": 3800
+    },
+    "Brahmin": {
+        "male": 1500,
+        "female": 1600
+    },
+    "Tamang": {
+        "male": 2000,
+        "female": 2100
+    }
+}
