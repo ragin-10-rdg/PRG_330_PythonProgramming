@@ -1,0 +1,22 @@
+{
+    "Madhesi": {
+        "Educated": 3200,
+        "Uneducated": 310
+    },
+    "Gurung": {
+        "Educated": 2800,
+        "Uneducated": 290
+    },
+    "Magar": {
+        "Educated": 3500,
+        "Uneducated": 340
+    },
+    "Sherpa": {
+        "Educated": 1500,
+        "Uneducated": 150
+    },
+    "Thakali": {
+        "Educated": 2200,
+        "Uneducated": 230
+    }
+}
